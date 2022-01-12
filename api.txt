@@ -1,6 +1,11 @@
 some // some change only on A
 fake
+<<<<<<< HEAD
 api  // change that needs to persist on B
 file  // change that needs to persist on B
 apple  // another change only on B
 banana // another change only on B
+=======
+api
+file
+>>>>>>> d986f26087627462c7e9508457219acb2479c23d
